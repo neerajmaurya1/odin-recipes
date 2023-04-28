@@ -29,9 +29,10 @@ p{
     color: #153462;
 }
 .maindiv{
+    max-width: 600px;
     color: #153462;
     background-color: #BAD1C2;
-    margin: 10px 10px 10px 10px;
+    margin: 10px auto;
     padding: 5px 5px 5px 5px;
     border: 2px dotted black;
     border-radius: 10px;
