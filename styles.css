@@ -1,4 +1,4 @@
-body{
+dinbody{
     margin: auto;
     background-color: #6096B4;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -23,11 +23,15 @@ p{
     border: 1px dotted black;
     border-radius: 10px;
 }
-.hdng{
+.heading{
     padding: 20px 20px;
     margin: auto;
     color: #153462;
 }
+.subheading{
+    padding: 10px 10px;
+    margin: auto;
+    color: #153462;
 .maindiv{
     max-width: 600px;
     color: #153462;
